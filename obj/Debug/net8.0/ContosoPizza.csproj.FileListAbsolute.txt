@@ -254,3 +254,4 @@
 /home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/obj/Debug/net8.0/ref/ContosoPizza.dll
 /home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/bin/Debug/net8.0/package-lock.json
 /home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/bin/Debug/net8.0/package.json
+/home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/obj/Debug/net8.0/ContosoPizza.sourcelink.json
