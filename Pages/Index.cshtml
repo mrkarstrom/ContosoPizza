@@ -1,10 +1,17 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "The home for Pizza lovers";
+    TimeSpan timeInBusiness = DateTime.Now - new DateTime(2018, 8, 14);
+    TimeSpan me = new DateTime(2023, 2, 2) - new DateTime(1981, 8, 9);
+    TimeSpan her = new DateTime(2023, 2, 2) - new DateTime(2002, 5, 7);
+
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Not Welcome</h1>
+    <p>The best pizza for @Convert.ToInt32(timeInBusiness.TotalDays) days!</p>
+    <p>Me: @Convert.ToInt32(me.TotalDays)</p>
+    <p>Her: @Convert.ToInt32(her.TotalDays)</p>
+    <p>She would be: @Convert.ToInt32(her.TotalDays * 2) </p>
 </div>

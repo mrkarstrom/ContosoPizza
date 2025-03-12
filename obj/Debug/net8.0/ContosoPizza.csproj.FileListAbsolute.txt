@@ -236,7 +236,6 @@
 /home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/obj/Debug/net8.0/ContosoPizza.MvcApplicationPartsAssemblyInfo.cache
 /home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/obj/Debug/net8.0/ContosoPizza.RazorAssemblyInfo.cache
 /home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/obj/Debug/net8.0/ContosoPizza.RazorAssemblyInfo.cs
-/home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/obj/Debug/net8.0/ContosoPizza.sourcelink.json
 /home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/obj/Debug/net8.0/staticwebassets.build.json
 /home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/obj/Debug/net8.0/staticwebassets.development.json
 /home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/obj/Debug/net8.0/staticwebassets/msbuild.ContosoPizza.Microsoft.AspNetCore.StaticWebAssets.props
@@ -253,3 +252,5 @@
 /home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/obj/Debug/net8.0/ContosoPizza.pdb
 /home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/obj/Debug/net8.0/ContosoPizza.genruntimeconfig.cache
 /home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/obj/Debug/net8.0/ref/ContosoPizza.dll
+/home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/bin/Debug/net8.0/package-lock.json
+/home/magnus/Kod/C#/edu/Razor/project1/mslearn-create-razor-pages-aspnet-core/ContosoPizza/bin/Debug/net8.0/package.json
